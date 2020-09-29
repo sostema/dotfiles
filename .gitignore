@@ -1,4 +1,5 @@
 .config/vifm/vifm-help.txt
+**/.DS_Store
 .config/vifm/scripts/README
 .config/vifm/vifminfo
 .config/nvim/.netrwhist
