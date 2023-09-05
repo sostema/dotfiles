@@ -313,7 +313,7 @@ mkdir -p "${HOME}/Library/Developer/Xcode/UserData/FontAndColorThemes"
 cp ${DOTFILES_DIR}/themes/gruvbox-xcode/Gruvbox.xccolortheme ${HOME}/Library/Developer/Xcode/UserData/FontAndColorThemes
 
 # Install theme for iTerm2
-open ${DOTFILES_DIR}/themes/gruvbox-iterm/gruvbox.itermcolors
+open ${DOTFILES_DIR}/themes/gruvbox-iterm/custom_gruvbox.itermcolors
 
 ###############################################################################
 # Activity Monitor                                                            #

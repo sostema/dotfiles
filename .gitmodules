@@ -1,6 +1,0 @@
-[submodule "themes/gruvbox-iterm"]
-	path = themes/gruvbox-iterm
-	url = https://github.com/herrbischoff/iterm2-gruvbox
-[submodule "themes/gruvbox-xcode"]
-	path = themes/gruvbox-xcode
-	url = https://github.com/jstheoriginal/gruvbox-theme-for-xcode
