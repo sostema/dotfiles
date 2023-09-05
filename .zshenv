@@ -1,3 +1,5 @@
+export GOPATH=$HOME/go/
+
 alias vi='nvim'
 alias vim='nvim'
 
