@@ -14,3 +14,5 @@ alias lt='ls --tree'
 
 alias python=/opt/homebrew/bin/python3.11
 alias pip=/opt/homebrew/bin/pip3.11
+
+source "$HOME/.cargo/env"
